@@ -12,7 +12,7 @@
 |<img width="30%" title="Northwest Public Service Academy" src="/design/icons/volgoteh.png">|[volgatech](https://www.volgatech.net/)| Прикладная информатика (2022)|
 |<img width="20%" title="QAGuru.png" src="design/icons/QAGuru.png">|[qa.guru](https://qa.guru)| <h3>Automation QA Engineer (2023)</h3>|
 
-![Native1331 GitHub stats](https://github-readme-stats.vercel.app/api?username=Native1331)
+![KatasonovaMasa GitHub stats](https://github-readme-stats.vercel.app/api?username=KatasonovaMasa)
 
 <h1>:star2: My certificates:</h1></a>
 <a href="https://drive.google.com/file/d/12PQPcQSeRExTkMAkppkgnvdqhEJ23U5P/view?usp=sharing"><h2> QA Guru</h2></a>
