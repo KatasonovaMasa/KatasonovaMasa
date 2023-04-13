@@ -4,7 +4,7 @@
 
 # <a name="TableOfContents">Содержание страницы</a>
 + [Описание](#Описание)
-+ <a name="MyToolsAndTechnologies">[Мои инструменты и технологии](#MyToolsAndTechnologies)</a>
++ [Мои инструменты и технологии](#MyToolsAndTechnologies)
 + [How to run](#Jenkins)
     + [Gradle command](#GradleCommand)
     + [Property files](#PropertyFiles)
