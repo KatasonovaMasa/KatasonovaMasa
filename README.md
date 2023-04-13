@@ -14,11 +14,11 @@
 
 ![KatasonovaMasa GitHub stats](https://github-readme-stats.vercel.app/api?username=KatasonovaMasa)
 
-[//]: # (<h1>:star2: My certificates:</h1></a>)
+<h1>:star2: Мои сертификаты:</h1></a>
 
-[//]: # (<a href="https://drive.google.com/file/d/12PQPcQSeRExTkMAkppkgnvdqhEJ23U5P/view?usp=sharing"><h2> QA Guru</h2></a>)
+<a href="http://cert.software-testing.ru/319597675000365643"><h2> Chrome DevTools: Инструменты тестировщика</h2></a>
 
-[//]: # (<a href=""><h2> Software Testing</h2></a>)
+<a href=""><h2> Software Testing</h2></a>
 
 [//]: # ()
 [//]: # ()
