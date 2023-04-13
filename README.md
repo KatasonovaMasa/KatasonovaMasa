@@ -16,18 +16,13 @@
 
 <h1>:star2: Мои сертификаты:</h1></a>
 
-<h2><a href="https://cert.software-testing.ru/319597675000365643">Chrome DevTools: Инструменты тестировщика (2022)</a></h2>![This is an image](/design/sert/ChromeDevTools.jpg)!
-<h2><a href="http://cert.software-testing.ru/319115219954565708">Азбука IT (2021)</a></h2>[This is an image](/design/sert/AsbukaIT.jpg)!
-<h2><a href="https://testprovider.com/ru/search-certificate/tp19086679">Web Testing (2021)</a></h2>[This is an image](/design/sert/WebTesting.jpg)!
-<h2><a href="https://testprovider.com/ru/search-certificate/tp98295222">Web Testing automation on Java (2021)</a></h2>[This is an image](/design/sert/WebTestingAutoJava.jpg)!
+<h2><a href="https://cert.software-testing.ru/319597675000365643">Chrome DevTools: Инструменты тестировщика (2022)</a></h2>![This is an image](/design/sert/ChromeDevTools.jpg)
+<h2><a href="http://cert.software-testing.ru/319115219954565708">Азбука IT (2021)</a></h2>![This is an image](/design/sert/AsbukaIT.jpg)
+<h2><a href="https://testprovider.com/ru/search-certificate/tp19086679">Web Testing (2021)</a></h2>![This is an image](/design/sert/WebTesting.jpg)
+<h2><a href="https://testprovider.com/ru/search-certificate/tp98295222">Web Testing automation on Java (2021)</a></h2>![This is an image](/design/sert/WebTestingAutoJava.jpg)
 
 
 
-[//]: # (<a href=""><h2> Software Testing</h2></a>)
-
-[//]: # ()
-[//]: # ()
-[//]: # ()
 [//]: # (## Дипломная работа выпускницы школы автотестирования "QA GURU"! <a href="https://github.com/KatasonovaMasa/qa.quru">Ссылка на проект</a>)
 
 [//]: # ()
