@@ -15,9 +15,13 @@
 ![KatasonovaMasa GitHub stats](https://github-readme-stats.vercel.app/api?username=KatasonovaMasa)
 
 <h1>:star2: Мои сертификаты:</h1></a>
-<img src="/design/sert/ChromeDevTools.png" width="50" height="25" ><h2><a href="https://cert.software-testing.ru/319597675000365643">Chrome DevTools: Инструменты тестировщика (2022)</a></h2>
 
-[//]: # (</a> *Allure* <a target="_blank" href="https://jenkins.autotests.cloud/job/nkramar_T1_Automated_Tests/14/allure/">*отчёт*</a>)
+<img src="/design/sert/ChromeDevTools.png" width="50" height="25"><h2><a href="https://cert.software-testing.ru/319597675000365643">Chrome DevTools: Инструменты тестировщика (2022)</a></h2>
+
+
+
+[//]: # (## <img src="images/Allure_Report.svg" width="25" height="25"  alt="Allure"/></a> *Allure* <a target="_blank" href="https://jenkins.autotests.cloud/job/nkramar_T1_Automated_Tests/14/allure/">*отчёт*</a>)
+
 
 
 <h2><a href="https://cert.software-testing.ru/319597675000365643">Chrome DevTools: Инструменты тестировщика (2022)</a></h2>|![This is an image](/design/sert/ChromeDevTools.png)!
