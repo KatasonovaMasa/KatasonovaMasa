@@ -20,7 +20,7 @@
 
 
 
-## Дипломная работа выпускницы школы автотестирования "QA GURU"! <a href="https://github.com/Overview/HeadHunterTests">Ссылка на проект</a>
+## Дипломная работа выпускницы школы автотестирования "QA GURU"! <a href="https://github.com/KatasonovaMasa/qa.quru">Ссылка на проект</a>
 
 # Проект по автоматизации тестирования для  Head Hunter, сайта поиска работодателя и работника	:star2:
 ## <a target="_blank" href="https://spb.hh.ru/">Веб сайт Head Hunter</a>
