@@ -5,16 +5,16 @@
 <p  align="center">
   <a href="https://www.jetbrains.com/idea/"><code><img width="5%" title="IntelliJ IDEA" src="/design/icons/Intelij_IDEA.png"></code></a>
   <a href="https://www.java.com/"><code><img width="5%" title="Java" src="/design/icons/Java.png"></code></a>
-  <a href="https://selenide.org/"<code><img width="5%" title="Selenide" src="/design/icons/Selenide.png"></code></a>
-  <code><img width="5%" title="REST-Assured" src="/design/icons/rest-assured-logo.svg"></code></a>
+  <a href="https://selenide.org/"></a><code><img width="5%" title="Selenide" src="/design/icons/Selenide.png"></code></a>
+  <a href="https://rest-assured.io/"><code><img width="5%" title="REST-Assured" src="/design/icons/rest-assured-logo.svg"></code></a>
   <a href="https://aerokube.com/selenoid/"><code><img width="5%" title="Selenoid" src="/design/icons/Selenoid.png"></code></a>
   <a href="https://gradle.org/"><code><img width="5%" title="Gradle" src="/design/icons/Gradle.png"></code></a>
   <a href="https://junit.org/junit5/"><code><img width="5%" title="JUnit5" src="/design/icons/JUnit5.png"></code></a>
   <a href="https://github.com/allure-framework/"><code><img width="5%" title="Allure Report" src="/design/icons/Allure_Report.png"></code></a>
-  <code><img width="5%" title="Allure TestOps" src="/design/icons/AllureTestOps.png"></code></a>
+  <a href="https://github.com/allure-framework/"><code><img width="5%" title="Allure TestOps" src="/design/icons/AllureTestOps.png"></code></a>
   <a href="https://github.com/"><code><img width="5%" title="Github" src="/design/icons/git-logo.svg"></code></a>
   <a href="https://www.jenkins.io/"><code><img width="5%" title="Jenkins" src="/design/icons/Jenkins.png"></code></a>
-  <code><img width="5%" title="Jira" src="/design/icons/Jira.png"></code></a>
+  <a href="https://www.atlassian.com/ru/software/jira"><code><img width="5%" title="Jira" src="/design/icons/Jira.png"></code></a>
   <a href="https://telegram.org/"><code><img width="5%" title="Telegram" src="/design/icons/Telegram.png"></code></a>
 </p>
 
