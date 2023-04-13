@@ -4,7 +4,7 @@
 
 # <a name="TableOfContents">Содержание страницы</a>
 + [Описание](#Описание)
-+ [Tools and technologies](#Technology)
++ [Мои инструменты и технологии:](#Мои инструменты и технологии:)
 + [How to run](#Jenkins)
     + [Gradle command](#GradleCommand)
     + [Property files](#PropertyFiles)
@@ -22,7 +22,7 @@
 + [Video of running tests](#Video)
 
 
-<h2> :trophy:  Мои инструменты и технологии:</h2>
+# <a name="Описание"><h2> :trophy:  Мои инструменты и технологии:</h2></a>
 <p  align="center">
   <a href="https://www.jetbrains.com/idea/"><code><img width="5%" title="IntelliJ IDEA" src="/design/icons/Intelij_IDEA.svg"></code></a>
   <a href="https://www.jetbrains.com/ru-ru/pycharm/"><code><img width="5%" title="Pycharm" src="/design/icons/Pycharm.svg"></code></a>
