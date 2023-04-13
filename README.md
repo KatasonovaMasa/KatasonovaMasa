@@ -7,10 +7,8 @@
 ## :trophy: My education:
 
 |<img width="30%" title="Northwest Public Service Academy" src="/design/icons/kirt.png">|[susu](https://kirt.usurt.ru/)| <Бухгалтер> (2007)|
-|:-|:-|:-|
 |<img width="30%" title="Northwest Public Service Academy" src="/design/icons/susu.png">|[susu](https://www.susu.ru/ru)| Экономист (2011)|
 |<img width="30%" title="Northwest Public Service Academy" src="/design/icons/volgoteh.png">|[volgatech](https://www.volgatech.net/)| Прикладная информатика (2022)|
-|:-|:-|:-|
 |<img width="20%" title="QAGuru.png" src="design/icons/QAGuru.png">|[qa.guru](https://qa.guru)| <h3>Automation QA Engineer (2023)</h3>|
 
 ![Native1331 GitHub stats](https://github-readme-stats.vercel.app/api?username=Native1331)
