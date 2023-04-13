@@ -8,7 +8,7 @@
 
 |<img width="30%" title="Northwest Public Service Academy" src="/design/icons/cropped-cropped-cropped-site_logo_color_ru.png">|[RANHIGS](https://www.ranepa.ru/)| Manager (2007)|
 |:-|:-|:-|
-|<img width="20%" title="QAGuru.png" src="design/icons/QAGuru.png">|[qa.guru](https://qa.guru)| <h3>Automation QA Engineer (2022)</h3>|
+|<img width="20%" title="QAGuru.png" src="design/icons/QAGuru.png">|[qa.guru](https://qa.guru)| <h3>Automation QA Engineer (2023)</h3>|
 
 ![Native1331 GitHub stats](https://github-readme-stats.vercel.app/api?username=Native1331)
 
