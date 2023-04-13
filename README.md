@@ -16,7 +16,7 @@
 
 <h1>:star2: Мои сертификаты:</h1></a>
 
-<a href="https://cert.software-testing.ru/319597675000365643"><h2> Chrome DevTools: Инструменты тестировщика</h2></a>
+<a href="https://cert.software-testing.ru/319597675000365643">Chrome DevTools: Инструменты тестировщика</a>
 
 [//]: # (<a href=""><h2> Software Testing</h2></a>)
 
