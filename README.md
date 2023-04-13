@@ -14,131 +14,204 @@
 
 ![KatasonovaMasa GitHub stats](https://github-readme-stats.vercel.app/api?username=KatasonovaMasa)
 
-<h1>:star2: My certificates:</h1></a>
-<a href="https://drive.google.com/file/d/12PQPcQSeRExTkMAkppkgnvdqhEJ23U5P/view?usp=sharing"><h2> QA Guru</h2></a>
-<a href=""><h2> Software Testing</h2></a>
+[//]: # (<h1>:star2: My certificates:</h1></a>)
 
+[//]: # (<a href="https://drive.google.com/file/d/12PQPcQSeRExTkMAkppkgnvdqhEJ23U5P/view?usp=sharing"><h2> QA Guru</h2></a>)
 
+[//]: # (<a href=""><h2> Software Testing</h2></a>)
 
-## Дипломная работа выпускницы школы автотестирования "QA GURU"! <a href="https://github.com/KatasonovaMasa/qa.quru">Ссылка на проект</a>
+[//]: # ()
+[//]: # ()
+[//]: # ()
+[//]: # (## Дипломная работа выпускницы школы автотестирования "QA GURU"! <a href="https://github.com/KatasonovaMasa/qa.quru">Ссылка на проект</a>)
 
-# Проект по автоматизации тестирования для  Head Hunter, сайта поиска работодателя и работника	:star2:
-## <a target="_blank" href="https://spb.hh.ru/">Веб сайт Head Hunter</a>
+[//]: # ()
+[//]: # (# Проект по автоматизации тестирования для  Head Hunter, сайта поиска работодателя и работника	:star2:)
 
-![This is an image](design/pictures/hh.jpeg)
+[//]: # (## <a target="_blank" href="https://spb.hh.ru/">Веб сайт Head Hunter</a>)
 
-## :clipboard:: Содержание:
+[//]: # ()
+[//]: # (![This is an image]&#40;design/pictures/hh.jpeg&#41;)
 
-- <a href="#trophy-технологии-и-инструменты">Технологии и инструменты</a>
-- <a href="#heavy_check_mark-реализованные-проверки">Реализованные проверки</a>
-- <a href="#clipboard_mark-сборка-в-Jenkins">Сборка в Jenkins</a>
-- <a href="#computer-запуск-из-терминала">Запуск из терминала</a>
-- <a href="#chart_with_downwards_trend-allure-отчет">Allure отчет</a>
-- <a href="#bar_chart-интеграция-с-allure-testops">Интеграция с Allure TestOps</a>
-- <a href="#chart_with_upwards_trend-интеграция-с-jira">Интеграция с Jira</a>
-- <a href="#iphone-отчет-в-telegram">Отчет в Telegram</a>
-- <a href="#movie_camera-видео-примеры-прохождения-тестов">Видео примеры прохождения тестов</a>
+[//]: # ()
+[//]: # (## :clipboard:: Содержание:)
 
-## :trophy:Технологии и инструменты
+[//]: # ()
+[//]: # (- <a href="#trophy-технологии-и-инструменты">Технологии и инструменты</a>)
 
-![This is an image](/design/icons/Java.png)![This is an image](/design/icons/Gradle.png)![This is an image](/design/icons/Intelij_IDEA.png)![This is an image](/design/icons/Selenide.png)![This is an image](/design/icons/Selenoid.png)![This is an image](/design/icons/JUnit5.png)![This is an image](/design/icons/Jenkins.png)![This is an image](/design/icons/Allure_Report.png)![This is an image](/design/icons/AllureTestOps.png)![This is an image](/design/icons/Telegram.png)![This is an image](/design/icons/Jira.png)</br>
+[//]: # (- <a href="#heavy_check_mark-реализованные-проверки">Реализованные проверки</a>)
 
-В данном проекте автотесты написаны на <code>Java</code> с использованием <code>Selenide</code> для UI-тестов.
+[//]: # (- <a href="#clipboard_mark-сборка-в-Jenkins">Сборка в Jenkins</a>)
 
-В качестве библиотеки для модульного тестирования используется <code>JUnit 5</code>.
+[//]: # (- <a href="#computer-запуск-из-терминала">Запуск из терминала</a>)
 
-Для автоматизированной сборки проекта используется <code>Gradle</code>.
+[//]: # (- <a href="#chart_with_downwards_trend-allure-отчет">Allure отчет</a>)
 
-<code>Selenoid</code> выполняет запуск браузеров в контейнерах <code>Docker</code>.
+[//]: # (- <a href="#bar_chart-интеграция-с-allure-testops">Интеграция с Allure TestOps</a>)
 
-<code>Allure Report</code> формирует отчет о запуске тестов.
+[//]: # (- <a href="#chart_with_upwards_trend-интеграция-с-jira">Интеграция с Jira</a>)
 
-<code>Jenkins</code> выполняет запуск тестов.
+[//]: # (- <a href="#iphone-отчет-в-telegram">Отчет в Telegram</a>)
 
-После завершения прогона отправляются уведомления с помощью бота в <code>Telegram</code>.
+[//]: # (- <a href="#movie_camera-видео-примеры-прохождения-тестов">Видео примеры прохождения тестов</a>)
 
+[//]: # ()
+[//]: # (## :trophy:Технологии и инструменты)
 
-## 	:heavy_check_mark: Реализованные проверки</br>
-Наличия раздела "Сервисы для соискателей" на главной странице</br>
-Выбора города (на примере Санкт-Петербурга)</br>
-Поиск вакансий "Тестировщик" и "Аналитик"</br>
-Поиск вакансии "Тестировщик" и "Аналитик в городе Санкт-Петербурге</br>
+[//]: # ()
+[//]: # (![This is an image]&#40;/design/icons/Java.png&#41;![This is an image]&#40;/design/icons/Gradle.png&#41;![This is an image]&#40;/design/icons/Intelij_IDEA.png&#41;![This is an image]&#40;/design/icons/Selenide.png&#41;![This is an image]&#40;/design/icons/Selenoid.png&#41;![This is an image]&#40;/design/icons/JUnit5.png&#41;![This is an image]&#40;/design/icons/Jenkins.png&#41;![This is an image]&#40;/design/icons/Allure_Report.png&#41;![This is an image]&#40;/design/icons/AllureTestOps.png&#41;![This is an image]&#40;/design/icons/Telegram.png&#41;![This is an image]&#40;/design/icons/Jira.png&#41;</br>)
 
-## :clipboard: Сборка в Jenkins
-### <a target="_blank" href="https://jenkins.autotests.cloud/job/HeadHunter3/">Сборка в Jenkins</a>
+[//]: # ()
+[//]: # (В данном проекте автотесты написаны на <code>Java</code> с использованием <code>Selenide</code> для UI-тестов.)
 
-![This is an image](design/pictures/jenkins.jpeg)
+[//]: # ()
+[//]: # (В качестве библиотеки для модульного тестирования используется <code>JUnit 5</code>.)
 
+[//]: # ()
+[//]: # (Для автоматизированной сборки проекта используется <code>Gradle</code>.)
 
-###  :clipboard: Параметры сборки в Jenkins:
-Сборка в Jenkins
+[//]: # ()
+[//]: # (<code>Selenoid</code> выполняет запуск браузеров в контейнерах <code>Docker</code>.)
 
-- browser (браузер, по умолчанию chrome)
-- version (версия браузера, по умолчанию 99.0)
-- size (размер окна браузера, по умолчанию 1920x1080)
-- threads (количество потоков)
-- необходимо добавить файл credentials.properties (содержащий в себе логины и пароли, пример в папке resources)
+[//]: # ()
+[//]: # (<code>Allure Report</code> формирует отчет о запуске тестов.)
 
-## :computer: Запуск из терминала
-Локальный запуск:
-```
-gradle clean test
-```
+[//]: # ()
+[//]: # (<code>Jenkins</code> выполняет запуск тестов.)
 
-Удаленный запуск:
-```
-clean
-test
--Dbrowser=${BROWSER}
--DbrowserVersion=${BROWSER_VERSION} 
--Dsize=${BROWSER_SIZE}
-```
+[//]: # ()
+[//]: # (После завершения прогона отправляются уведомления с помощью бота в <code>Telegram</code>.)
 
-## :chart_with_downwards_trend: Allure отчет
-- ### Главный экран отчета
+[//]: # ()
+[//]: # ()
+[//]: # (## 	:heavy_check_mark: Реализованные проверки</br>)
 
-![This is an image](design/pictures/allure.jpeg)
+[//]: # (Наличия раздела "Сервисы для соискателей" на главной странице</br>)
 
+[//]: # (Выбора города &#40;на примере Санкт-Петербурга&#41;</br>)
 
-- ### Страница с проведенными тестами
+[//]: # (Поиск вакансий "Тестировщик" и "Аналитик"</br>)
 
-![This is an image](design/pictures/allure1.jpeg)
+[//]: # (Поиск вакансии "Тестировщик" и "Аналитик в городе Санкт-Петербурге</br>)
 
-## :bar_chart: Интеграция с Allure TestOps
-- ### Экран с результатами запуска тестов
+[//]: # ()
+[//]: # (## :clipboard: Сборка в Jenkins)
 
-![This is an image](design/pictures/allureTestsOp.jpeg)
+[//]: # (### <a target="_blank" href="https://jenkins.autotests.cloud/job/HeadHunter3/">Сборка в Jenkins</a>)
 
-- ### Страница с тестами в TestOps
+[//]: # ()
+[//]: # (![This is an image]&#40;design/pictures/jenkins.jpeg&#41;)
 
-![This is an image](design/pictures/AllureTestOps1.jpeg)
+[//]: # ()
+[//]: # ()
+[//]: # (###  :clipboard: Параметры сборки в Jenkins:)
 
-## :chart_with_upwards_trend:	 Интеграция с Jira
-- ### Страница с задачей в Jira
+[//]: # (Сборка в Jenkins)
 
-![This is an image](design/pictures/jira.jpeg)
+[//]: # ()
+[//]: # (- browser &#40;браузер, по умолчанию chrome&#41;)
 
+[//]: # (- version &#40;версия браузера, по умолчанию 99.0&#41;)
 
-## 	:iphone: Отчет в Telegram
+[//]: # (- size &#40;размер окна браузера, по умолчанию 1920x1080&#41;)
 
-![This is an image](design/pictures/telegram.jpeg)
+[//]: # (- threads &#40;количество потоков&#41;)
 
+[//]: # (- необходимо добавить файл credentials.properties &#40;содержащий в себе логины и пароли, пример в папке resources&#41;)
 
-## :movie_camera: Видео примеры прохождения тестов
+[//]: # ()
+[//]: # (## :computer: Запуск из терминала)
 
+[//]: # (Локальный запуск:)
 
+[//]: # (```)
 
+[//]: # (gradle clean test)
 
+[//]: # (```)
 
+[//]: # ()
+[//]: # (Удаленный запуск:)
 
-https://user-images.githubusercontent.com/83497921/180842190-123c8f3d-a1af-4363-aa5b-ef48283e3013.mp4
+[//]: # (```)
 
+[//]: # (clean)
 
+[//]: # (test)
 
+[//]: # (-Dbrowser=${BROWSER})
 
-:heart: <a target="_blank" href="https://qa.guru">qa.guru</a><br/>
-:blue_heart: <a target="_blank" href="https://t.me/qa_automation">t.me/qa_automation</a>
+[//]: # (-DbrowserVersion=${BROWSER_VERSION} )
 
+[//]: # (-Dsize=${BROWSER_SIZE})
+
+[//]: # (```)
+
+[//]: # ()
+[//]: # (## :chart_with_downwards_trend: Allure отчет)
+
+[//]: # (- ### Главный экран отчета)
+
+[//]: # ()
+[//]: # (![This is an image]&#40;design/pictures/allure.jpeg&#41;)
+
+[//]: # ()
+[//]: # ()
+[//]: # (- ### Страница с проведенными тестами)
+
+[//]: # ()
+[//]: # (![This is an image]&#40;design/pictures/allure1.jpeg&#41;)
+
+[//]: # ()
+[//]: # (## :bar_chart: Интеграция с Allure TestOps)
+
+[//]: # (- ### Экран с результатами запуска тестов)
+
+[//]: # ()
+[//]: # (![This is an image]&#40;design/pictures/allureTestsOp.jpeg&#41;)
+
+[//]: # ()
+[//]: # (- ### Страница с тестами в TestOps)
+
+[//]: # ()
+[//]: # (![This is an image]&#40;design/pictures/AllureTestOps1.jpeg&#41;)
+
+[//]: # ()
+[//]: # (## :chart_with_upwards_trend:	 Интеграция с Jira)
+
+[//]: # (- ### Страница с задачей в Jira)
+
+[//]: # ()
+[//]: # (![This is an image]&#40;design/pictures/jira.jpeg&#41;)
+
+[//]: # ()
+[//]: # ()
+[//]: # (## 	:iphone: Отчет в Telegram)
+
+[//]: # ()
+[//]: # (![This is an image]&#40;design/pictures/telegram.jpeg&#41;)
+
+[//]: # ()
+[//]: # ()
+[//]: # (## :movie_camera: Видео примеры прохождения тестов)
+
+[//]: # ()
+[//]: # ()
+[//]: # ()
+[//]: # ()
+[//]: # ()
+[//]: # ()
+[//]: # (https://user-images.githubusercontent.com/83497921/180842190-123c8f3d-a1af-4363-aa5b-ef48283e3013.mp4)
+
+[//]: # ()
+[//]: # ()
+[//]: # ()
+[//]: # ()
+[//]: # (:heart: <a target="_blank" href="https://qa.guru">qa.guru</a><br/>)
+
+[//]: # (:blue_heart: <a target="_blank" href="https://t.me/qa_automation">t.me/qa_automation</a>)
+
+[//]: # ()
 
 
 
