@@ -21,7 +21,6 @@
 + [Jira integration](#Jira)
 + [Video of running tests](#Video)
 
-
 # <a name="Мои инструменты и технологии">Мои инструменты и технологии</a>
 <p  align="center">
   <a href="https://www.jetbrains.com/idea/"><code><img width="5%" title="IntelliJ IDEA" src="/design/icons/Intelij_IDEA.svg"></code></a>
