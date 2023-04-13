@@ -22,6 +22,8 @@
   <a href="https://www.postman.com/"><code><img width="5%" title="Postman" src="/design/icons/Postman.svg"></code></a>
   <a href="https://www.atlassian.com/software/confluence"><code><img width="5%" title="Confluence" src="/design/icons/Confluence.svg"></code></a>
   <a href="https://jmeter.apache.org/"><code><img width="5%" title="Jmeter" src="/design/icons/Jmeter.svg"></code></a>
+  <a href="https://www.jetbrains.com/ru-ru/youtrack/"><code><img width="5%" title="Yourtrack" src="/design/icons/Yourtrack.svg"></code></a>
+  <a href="https://www.docker.com/"><code><img width="5%" title="Docker" src="/design/icons/Docker.svg"></code></a>
 
 </p>
 
