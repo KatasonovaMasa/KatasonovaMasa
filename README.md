@@ -1,5 +1,5 @@
 <h1>Добро пожаловать!</br> 
-  Hi there, I'm Mariya <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+  Привет, я Мария <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2>Im  QA Engineer:sunglasses:</h2>
 <h2> :trophy:  My tools and technology:</h2>
 
