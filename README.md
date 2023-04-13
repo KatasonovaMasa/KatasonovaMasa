@@ -18,12 +18,11 @@
 
 ## <img src="/design/sert/ChromeDevTools.png" width="185" height="105"/></a> <a target="_blank" href="https://cert.software-testing.ru/319597675000365643">Chrome DevTools: Инструменты тестировщика (2022)</a>
 
+## <img src="/design/sert/AsbukaIT.png" width="185" height="105"/></a> <a target="_blank" href="http://cert.software-testing.ru/319115219954565708">Азбука IT (2021)</a>
 
+## <img src="/design/sert/WebTesting.png" width="185" height="105"/></a> <a target="_blank" href="https://testprovider.com/ru/search-certificate/tp19086679">Web Testing (2021)</a>
 
-<h2><a href="https://cert.software-testing.ru/319597675000365643">Chrome DevTools: Инструменты тестировщика (2022)</a></h2>|![This is an image](/design/sert/ChromeDevTools.png)!
-<h2><a href="http://cert.software-testing.ru/319115219954565708">Азбука IT (2021)</a></h2>|![This is an image](/design/sert/AsbukaIT.png)!
-<h2><a href="https://testprovider.com/ru/search-certificate/tp19086679">Web Testing (2021)</a></h2>|![This is an image](/design/sert/WebTesting.png)!
-<h2><a href="https://testprovider.com/ru/search-certificate/tp98295222">Web Testing automation on Java (2021)</a></h2>|![This is an image](/design/sert/WebTestingAutoJava.png)!
+## <img src="/design/sert/WebTestingAutoJava.png" width="185" height="105"/></a> <a target="_blank" href="https://testprovider.com/ru/search-certificate/tp98295222">Web Testing automation on Java (2021)</a>
 
 
 
