@@ -22,7 +22,8 @@
 + [Video of running tests](#Video)
 
 
-:trophy: # <a name="Мои инструменты и технологии">Мои инструменты и технологии:</a>
+:trophy: 
+# <a name="Мои инструменты и технологии">Мои инструменты и технологии</a>
 <p  align="center">
   <a href="https://www.jetbrains.com/idea/"><code><img width="5%" title="IntelliJ IDEA" src="/design/icons/Intelij_IDEA.svg"></code></a>
   <a href="https://www.jetbrains.com/ru-ru/pycharm/"><code><img width="5%" title="Pycharm" src="/design/icons/Pycharm.svg"></code></a>
