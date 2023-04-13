@@ -16,11 +16,7 @@
 
 <h1>:star2: Мои сертификаты:</h1></a>
 
-<img src="/design/sert/ChromeDevTools.png" width="50" height="25"><h2><a href="https://cert.software-testing.ru/319597675000365643">Chrome DevTools: Инструменты тестировщика (2022)</a></h2>
-
-
-
-## <img src="/design/sert/ChromeDevTools.png" width="75" height="55"/></a> <a target="_blank" href="https://cert.software-testing.ru/319597675000365643">*Инструменты тестировщика (2022)*</a>
+## <img src="/design/sert/ChromeDevTools.png" width="75" height="55"/></a> <a target="_blank" href="https://cert.software-testing.ru/319597675000365643">Chrome DevTools: Инструменты тестировщика (2022)</a>
 
 
 
