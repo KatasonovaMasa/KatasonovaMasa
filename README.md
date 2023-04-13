@@ -25,9 +25,19 @@
   <a href="https://www.jetbrains.com/ru-ru/youtrack/"><code><img width="5%" title="Yourtrack" src="/design/icons/Yourtrack.svg"></code></a>
   <a href="https://www.docker.com/"><code><img width="5%" title="Docker" src="/design/icons/Docker.svg"></code></a>
   <a href="https://swagger.io/"><code><img width="5%" title="Swagger" src="/design/icons/Swagger.svg"></code></a>
-
 </p>
 
+Автотесты в этом проекте написаны на `Java` с использованием `Selenide`.\
+`Gradle` - для автоматической системы сборки.  \
+`JUnit5` - для модульного тестирования.\
+`REST Assured` - для тестирования API сервисов REST.\
+`Jenkins` - CI/CD для удаленного запуска тестов.\
+`Selenoid` - для удаленного запуска браузеров в `Docker` контейнере.\
+`Browserstack` - для запуска мобильных тестов.\
+`Android Studio tools`, `Appium` - для локальной настройки мобильных тестов в эмуляторе мобильного устройства.\
+`Allure Report` - для визуализации результатов тестирования.\
+`Telegram Bot` - для уведомлений о результатах тестирования.\
+`Allure TestOps` - система управления тестированием.
 
 ## :trophy:Мое образование:
 
