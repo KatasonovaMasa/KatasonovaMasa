@@ -4,6 +4,7 @@
 <h2> :trophy:  Мои инструменты и технологии:</h2>
 <p  align="center">
   <a href="https://www.jetbrains.com/idea/"><code><img width="5%" title="IntelliJ IDEA" src="/design/icons/Intelij_IDEA.svg"></code></a>
+  <a href="https://www.jetbrains.com/ru-ru/pycharm/"><code><img width="5%" title="Pycharm" src="/design/icons/Pycharm.svg"></code></a>
   <a href="https://www.java.com/"><code><img width="5%" title="Java" src="/design/icons/Java.svg"></code></a>
   <a href="https://selenide.org/"></a><code><img width="5%" title="Selenide" src="/design/icons/Selenide.svg"></code></a>
   <a href="https://rest-assured.io/"><code><img width="5%" title="REST-Assured" src="/design/icons/rest-assured-logo.svg"></code></a>
@@ -18,6 +19,10 @@
   <a href="https://www.atlassian.com/ru/software/jira"><code><img width="5%" title="Jira" src="/design/icons/Jira.svg"></code></a>
   <a href="https://bitbucket.org/"><code><img width="5%" title="Bitbucket" src="/design/icons/Bitbucket.svg"></code></a>
   <a href="https://telegram.org/"><code><img width="5%" title="Telegram" src="/design/icons/Telegram.svg"></code></a>
+  <a href="https://www.postman.com/"><code><img width="5%" title="Postman" src="/design/icons/Postman.svg"></code></a>
+  <a href="https://www.atlassian.com/software/confluence"><code><img width="5%" title="Confluence" src="/design/icons/Confluence.svg"></code></a>
+  <a href="https://jmeter.apache.org/"><code><img width="5%" title="Jmeter" src="/design/icons/Jmeter.svg"></code></a>
+
 </p>
 
 
