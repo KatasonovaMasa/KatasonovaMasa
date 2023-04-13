@@ -18,6 +18,7 @@
 
 <h2><a href="https://cert.software-testing.ru/319597675000365643">Chrome DevTools: Инструменты тестировщика (2022)</a></h2>
 <h2><a href="http://cert.software-testing.ru/319115219954565708">Азбука IT (2021)</a></h2>
+<h2><a href="https://testprovider.com/ru/search-certificate/tp19086679">Web Testing (2021)</a></h2>
 
 
 [//]: # (<a href=""><h2> Software Testing</h2></a>)
