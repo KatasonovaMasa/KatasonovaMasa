@@ -20,7 +20,7 @@
 
 
 
-## <img src="/design/sert/ChromeDevTools.png" width="75" height="55"  alt="Allure"/></a> *Chrome DevTools:* <a target="_blank" href="https://cert.software-testing.ru/319597675000365643">*Инструменты тестировщика (2022)*</a>
+## <img src="/design/sert/ChromeDevTools.png" width="75" height="55"/></a> *Chrome DevTools:* <a target="_blank" href="https://cert.software-testing.ru/319597675000365643">*Инструменты тестировщика (2022)*</a>
 
 
 
