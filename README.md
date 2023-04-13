@@ -6,7 +6,7 @@
 ![This is an image](/design/icons/Java.png)![This is an image](/design/icons/Gradle.png)![This is an image](/design/icons/Intelij_IDEA.png)![This is an image](/design/icons/Selenide.png)![This is an image](/design/icons/Selenoid.png)![This is an image](/design/icons/JUnit5.png)![This is an image](/design/icons/Jenkins.png)![This is an image](/design/icons/Allure_Report.png)![This is an image](/design/icons/AllureTestOps.png)![This is an image](/design/icons/Telegram.png)![This is an image](/design/icons/Jira.png)</br>
 ## :trophy: My education:
 
-|<img width="30%" title="Northwest Public Service Academy" src="/design/icons/cropped-cropped-cropped-site_logo_color_ru.png">|[RANHIGS](https://www.ranepa.ru/)| Manager (2007)|
+|<img width="30%" title="Northwest Public Service Academy" src="/design/icons/volgoteh.png">|[RANHIGS](https://www.ranepa.ru/)| Manager (2007)|
 |:-|:-|:-|
 |<img width="20%" title="QAGuru.png" src="design/icons/QAGuru.png">|[qa.guru](https://qa.guru)| <h3>Automation QA Engineer (2023)</h3>|
 
@@ -18,7 +18,7 @@
 
 
 
-## Дипломная работа выпускницы школы автотестирования "QA GURU"! <a href="https://github.com/Native1331/HeadHunterTests">Ссылка на проект</a>
+## Дипломная работа выпускницы школы автотестирования "QA GURU"! <a href="https://github.com/Overview/HeadHunterTests">Ссылка на проект</a>
 
 # Проект по автоматизации тестирования для  Head Hunter, сайта поиска работодателя и работника	:star2:
 ## <a target="_blank" href="https://spb.hh.ru/">Веб сайт Head Hunter</a>
