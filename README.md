@@ -3,19 +3,21 @@
 <h2>Я  QA Engineer:sunglasses:</h2>
 <h2> :trophy:  Мои инструменты и технологии:</h2>
 <p  align="center">
-  <a href="https://www.jetbrains.com/idea/"><code><img width="5%" title="IntelliJ IDEA" src="/design/icons/Intelij_IDEA.png"></code></a>
-  <a href="https://www.java.com/"><code><img width="5%" title="Java" src="/design/icons/Java.png"></code></a>
-  <a href="https://selenide.org/"></a><code><img width="5%" title="Selenide" src="/design/icons/Selenide.png"></code></a>
+  <a href="https://www.jetbrains.com/idea/"><code><img width="5%" title="IntelliJ IDEA" src="/design/icons/Intelij_IDEA.svg"></code></a>
+  <a href="https://www.java.com/"><code><img width="5%" title="Java" src="/design/icons/Java.svg"></code></a>
+  <a href="https://selenide.org/"></a><code><img width="5%" title="Selenide" src="/design/icons/Selenide.svg"></code></a>
   <a href="https://rest-assured.io/"><code><img width="5%" title="REST-Assured" src="/design/icons/rest-assured-logo.svg"></code></a>
-  <a href="https://aerokube.com/selenoid/"><code><img width="5%" title="Selenoid" src="/design/icons/Selenoid.png"></code></a>
-  <a href="https://gradle.org/"><code><img width="5%" title="Gradle" src="/design/icons/Gradle.png"></code></a>
-  <a href="https://junit.org/junit5/"><code><img width="5%" title="JUnit5" src="/design/icons/JUnit5.png"></code></a>
-  <a href="https://github.com/allure-framework/"><code><img width="5%" title="Allure Report" src="/design/icons/Allure_Report.png"></code></a>
-  <a href="https://github.com/allure-framework/"><code><img width="5%" title="Allure TestOps" src="/design/icons/AllureTestOps.png"></code></a>
-  <a href="https://github.com/"><code><img width="5%" title="Github" src="/design/icons/git-logo.svg"></code></a>
-  <a href="https://www.jenkins.io/"><code><img width="5%" title="Jenkins" src="/design/icons/Jenkins.png"></code></a>
-  <a href="https://www.atlassian.com/ru/software/jira"><code><img width="5%" title="Jira" src="/design/icons/Jira.png"></code></a>
-  <a href="https://telegram.org/"><code><img width="5%" title="Telegram" src="/design/icons/Telegram.png"></code></a>
+  <a href="https://aerokube.com/selenoid/"><code><img width="5%" title="Selenoid" src="/design/icons/Selenoid.svg"></code></a>
+  <a href="https://gradle.org/"><code><img width="5%" title="Gradle" src="/design/icons/Gradle.svg"></code></a>
+  <a href="https://junit.org/junit5/"><code><img width="5%" title="JUnit5" src="/design/icons/JUnit5.svg"></code></a>
+  <a href="https://docs.qameta.io/allure/"><code><img width="5%" title="Allure Report" src="/design/icons/Allure_Report.svg"></code></a>
+  <a href="https://qameta.io/"><code><img width="5%" title="Allure TestOps" src="/design/icons/AllureTestOps.svg"></code></a>
+  <a href="https://github.com/"><code><img width="5%" title="Github" src="/design/icons/GitHub.svg"></code></a>
+  <a href="https://git-scm.com/"><code><img width="5%" title="Github" src="/design/icons/Git.svg"></code></a>
+  <a href="https://www.jenkins.io/"><code><img width="5%" title="Jenkins" src="/design/icons/Jenkins.svg"></code></a>
+  <a href="https://www.atlassian.com/ru/software/jira"><code><img width="5%" title="Jira" src="/design/icons/Jira.svg"></code></a>
+  <a href="https://bitbucket.org/"><code><img width="5%" title="Bitbucket" src="/design/icons/Bitbucket.svg"></code></a>
+  <a href="https://telegram.org/"><code><img width="5%" title="Telegram" src="/design/icons/Telegram.svg"></code></a>
 </p>
 
 
