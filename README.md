@@ -1,6 +1,27 @@
 <h1>Добро пожаловать!</br> 
   Привет, я Мария <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2>Я  QA Engineer:sunglasses:</h2>
+
+# <a name="TableOfContents">Содержание страницы</a>
++ [Описание](#Описание)
++ [Tools and technologies](#Technology)
++ [How to run](#Jenkins)
+    + [Gradle command](#GradleCommand)
+    + [Property files](#PropertyFiles)
+        + [Default property files](#PropertyFilesDefaults)
+    + [Run in Jenkins](#RunInJenkins)
++ [Telegram Notifications](#TelegramNotifications)
++ [Test results report in Allure Report](#AllureReport)
++ [Allure TestOps integration](#AllureTestOps)
+    + [Project in Allure TestOps](#AllureTestOpsProject)
+    + [Start a run of custom set of tests](#AllureTestOpsStartTests)
+    + [Dashboards](#Dashboards)
+    + [Defects](#Defects)
++ [GitHub webhooks](#GithubWebhooks)
++ [Jira integration](#Jira)
++ [Video of running tests](#Video)
+
+
 <h2> :trophy:  Мои инструменты и технологии:</h2>
 <p  align="center">
   <a href="https://www.jetbrains.com/idea/"><code><img width="5%" title="IntelliJ IDEA" src="/design/icons/Intelij_IDEA.svg"></code></a>
@@ -30,6 +51,7 @@
   <a href="https://swagger.io/"><code><img width="5%" title="Swagger" src="/design/icons/Swagger.svg"></code></a>
 </p>
 
+# <a name="Описание">Описание</a>
 Автотесты в этом проекте написаны на `Java` с использованием `Selenide`.\
 `Gradle` - для автоматической системы сборки.  \
 `JUnit5` - для модульного тестирования.\
