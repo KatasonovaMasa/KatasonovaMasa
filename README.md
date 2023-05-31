@@ -28,7 +28,7 @@
 
 
 
-## Дипломная работа выпускницы школы автотестирования "QA GURU"! <a href="https://github.com/KatasonovaMasa/DiplomaSteam">Ссылка на проект</a>
+# <a target="_blank" href="https://github.com/KatasonovaMasa/DiplomaSteam">Дипломная работа выпускницы школы автотестирования "QA GURU"!
 
 # UI, API и Mobile автотесты для сайта [STEAM](https://store.steampowered.com/) — онлайн-сервиса цифрового распространения компьютерных игр и программ, разработанного и поддерживаемого компанией Valve.
 <img alt="GIPHY" src="/design/icons/STEAM.png">
