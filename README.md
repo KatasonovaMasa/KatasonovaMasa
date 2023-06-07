@@ -44,7 +44,7 @@
 + [👷‍♂️ Сборка в Jenkins](#Build_in_Jenkins)
     + [Страница сборки job в Jenkins](#Build_in_Jenkins1)
     + [Главный экран со списком job в Jenkins](#Build_in_Jenkins2)
-+ [:clipboard: Параметры сборки в Jenkins](#Jenkins)
++ [🖥 Параметры сборки в Jenkins](#terminal)
 + [:computer: Запуск из терминала](#Launch_from_terminal)
   - <a href="#console-ui"> UI
   - <a href="#console-api"> API
@@ -149,7 +149,7 @@
 
 ![This is an image](design/pictures/jenkins2.png)
 
-<a name="Jenkins"><h2>:clipboard: Параметры сборки в Jenkins</h2></a>
+<a name="terminal"><h2>:computer: Параметры сборки в Jenkins</h2></a>
 
 Сборка в Jenkins
 
