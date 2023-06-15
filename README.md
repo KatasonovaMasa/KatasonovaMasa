@@ -140,12 +140,12 @@
 :heavy_check_mark: Удаление игры из корзину</br>
 
 
-	<a name="buildInJenkins" href="https://jenkins.autotests.cloud/job/SteamProject/"><h2>👷‍♂️ Сборки в [Jenkins](https://jenkins.autotests.cloud/job/DiplomaSteam/)<h2></a>
-- <a name="buildInJenkins1"><h5>Страница сборки job в [Jenkins](https://jenkins.autotests.cloud/job/DiplomaSteam/178/)</h5></a>
+<a name="buildInJenkins" href="https://jenkins.autotests.cloud/job/SteamProject/"><h2>👷‍♂️ Сборки в [Jenkins](https://jenkins.autotests.cloud/job/Students/job/DiplomaSteam/)<h2></a>
+- <a name="buildInJenkins1"><h5>Страница сборки job в [Jenkins](https://jenkins.autotests.cloud/job/Students/job/DiplomaSteam/178/)</h5></a>
 
 ![This is an image](design/pictures/jenkins1.png)
 
-- <a name="buildInJenkins2"><h5>Главный экран со списком job в [Jenkins](https://jenkins.autotests.cloud/job/DiplomaSteam/)</h5></a>
+- <a name="buildInJenkins2"><h5>Главный экран со списком job в [Jenkins](https://jenkins.autotests.cloud/job/Students/job/DiplomaSteam/)</h5></a>
 
 ![This is an image](design/pictures/jenkins2.png)
 
@@ -196,13 +196,13 @@ ${TASK}
 -Dbaseurl=${BASEURL}
 -Dselenoid_url=${SELENOID_URL}
 ```
-<a name="Allure_report"><h2>:chart_with_downwards_trend: [Allure Report](https://jenkins.autotests.cloud/job/DiplomaSteam/178/allure/)</h2></a>
+<a name="Allure_report"><h2>:chart_with_downwards_trend: [Allure Report](https://jenkins.autotests.cloud/job/Students/job/DiplomaSteam/178/allure/)</h2></a>
 
-- <a name="Allure_report1"><h3>Главный экран отчета в [Allure Report](https://jenkins.autotests.cloud/job/DiplomaSteam/178/allure/#)</h3></a>
+- <a name="Allure_report1"><h3>Главный экран отчета в [Allure Report](https://jenkins.autotests.cloud/job/Students/job/DiplomaSteam/178/allure/#)</h3></a>
 
 ![This is an image](design/pictures/allure.png)
 
--  <a name="Allure_report2"><h3>Страница с проведенными тестами в [Allure Report](https://jenkins.autotests.cloud/job/DiplomaSteam/178/allure/#suites/5c6961ccda11b989b711be0fa000af14/e117dc1bb946ebe9/)</h3></a>
+-  <a name="Allure_report2"><h3>Страница с проведенными тестами в [Allure Report](https://jenkins.autotests.cloud/job/Students/job/DiplomaSteam/178/allure/#suites/5c6961ccda11b989b711be0fa000af14/e117dc1bb946ebe9/)</h3></a>
 
 ![This is an image](design/pictures/allure1.png)
 
@@ -251,3 +251,12 @@ https://github.com/KatasonovaMasa/Steam/assets/44576709/35a05427-a8b1-4941-abc5-
 :heart: <a target="_blank" href="https://qa.guru">qa.guru</a><br/>
 
 :blue_heart: <a target="_blank" href="https://t.me/qa_automation">t.me/qa_automation</a>
+
+
+
+
+  
+
+  
+  
+
