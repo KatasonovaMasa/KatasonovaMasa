@@ -14,9 +14,8 @@
 |<img width="30%" title="Northwest Public Service Academy" src="/design/icons/volgoteh.png">|[volgatech](https://www.volgatech.net/)| Прикладная информатика (2022)|
 |<img width="20%" title="QAGuru.png" src="design/icons/QAGuru.png">|[qa.guru](https://qa.guru)| <h3>Automation QA Engineer (2023)</h3>|
 
-![KatasonovaMasa GitHub stats](https://github-readme-stats.vercel.app/api?username=KatasonovaMasa)
+![KatasonovaMasa github stats](https://github-readme-stats.vercel.app/api?username=svasenkov&show_icons=true&theme=radical)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KatasonovaMasa)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1>:star2: Мои сертификаты:</h1></a>
 
