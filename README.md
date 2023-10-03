@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Добро+пожаловать+,+я+Мария)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Добро+пожаловать,+я+Мария)](https://git.io/typing-svg)
 
 <h0>**Я  QA Engineer (Junior Automation, Java)**:sunglasses:</h0>
 
