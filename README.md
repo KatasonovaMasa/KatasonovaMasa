@@ -20,10 +20,9 @@
 
 ![KatasonovaMasa github stats](https://github-readme-stats.vercel.app/api?username=KatasonovaMasa&show_icons=true&theme=radical)
 
-[![KatasonovaMasa GitHub stats](https://github-readme-stats.vercel.app/api?username=KatasonovaMasa&show_icons=true&theme=radical)]
 
-<h1>:star2: Мои сертификаты:</h1></a>
-
+<details>
+<summary> <h0>star2: Мои сертификаты:</h0></summary>
 ## <img src="/design/sert/ChromeDevTools.png" width="185" height="105"/></a> <a target="_blank" href="https://cert.software-testing.ru/319597675000365643">Chrome DevTools: Инструменты тестировщика (2022)</a>
 
 ## <img src="/design/sert/AsbukaIT.png" width="185" height="105"/></a> <a target="_blank" href="http://cert.software-testing.ru/319115219954565708">Азбука IT (2021)</a>
@@ -32,6 +31,7 @@
 
 ## <img src="/design/sert/WebTestingAutoJava.png" width="185" height="105"/></a> <a target="_blank" href="https://testprovider.com/ru/search-certificate/tp98295222">Web Testing automation on Java (2021)</a>
 
+</details>
 
 
 # <a target="_blank" href="https://github.com/KatasonovaMasa/DiplomaSteam">Дипломная работа выпускницы школы автотестирования "QA GURU"!
