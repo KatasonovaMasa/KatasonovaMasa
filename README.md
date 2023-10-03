@@ -32,7 +32,7 @@
 
 </details>
 
-#### Дипломная работа выпускницы школы автотестирования "QA GURU"! [qa guru](https://qa.guru/)
+#### Дипломная работа выпускницы школы автотестирования [qa guru](https://qa.guru/)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KatasonovaMasa&repo=DiplomaSteam&theme=solarized-light)](https://github.com/KatasonovaMasa/DiplomaSteam)
 
