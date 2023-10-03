@@ -36,7 +36,7 @@
 </details>
 
 
-# <a target="_blank" href="https://github.com/KatasonovaMasa/DiplomaSteam">Дипломная работа выпускницы школы автотестирования "QA GURU"!
+# <a target="_blank" href="https://github.com/KatasonovaMasa/DiplomaSteam"><h0>Дипломная работа выпускницы школы автотестирования "QA GURU"!<h0>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KatasonovaMasa&repo=DiplomaSteam&theme=solarized-light)](https://github.com/KatasonovaMasa/DiplomaSteam)
 
