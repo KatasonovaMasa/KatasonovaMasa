@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Добро+пожаловать+,+я+Мария)](https://git.io/typing-svg)
-
 <h0>**Я  QA Engineer (Junior Automation, Java)**:sunglasses:</h0>
 
 <h0>**Моё резюме на** <a target="_blank" href="https://yoshkar-ola.hh.ru/resume/8bc9af15ff058d8cd60039ed1f617776426948">НН</h0>
