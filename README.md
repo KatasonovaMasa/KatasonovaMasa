@@ -1,5 +1,4 @@
-#### Добро пожаловать!
-#### Привет, я Мария <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+#### Добро пожаловать, я Мария <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 #### Я  QA Engineer (Junior Automation, Java):sunglasses:
 #### Моё резюме на <a target="_blank" href="https://yoshkar-ola.hh.ru/resume/8bc9af15ff058d8cd60039ed1f617776426948">НН
 ####  :trophy:  Мои инструменты и технологии:
