@@ -21,6 +21,7 @@
 
 ![KatasonovaMasa github stats](https://github-readme-stats.vercel.app/api?username=KatasonovaMasa&show_icons=true&theme=radical)
 
+[![KatasonovaMasa GitHub stats](https://github-readme-stats.vercel.app/api?username=KatasonovaMasa&show_icons=true&theme=radical)]
 
 <h1>:star2: Мои сертификаты:</h1></a>
 
