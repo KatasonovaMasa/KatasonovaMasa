@@ -1,4 +1,7 @@
-#### Добро пожаловать, я Мария <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Добро+пожаловать+,+я+Мария)](https://git.io/typing-svg)
+
+
+[//]: # (#### Добро пожаловать, я Мария <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>)
 #### Я  QA Engineer (Junior Automation, Java):sunglasses:
 #### Моё резюме на <a target="_blank" href="https://yoshkar-ola.hh.ru/resume/8bc9af15ff058d8cd60039ed1f617776426948">НН
 #### :trophy:  Мои инструменты и технологии:
@@ -44,7 +47,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KatasonovaMasa&repo=JavaRush_Ui_Mobile_Api&theme=solarized-light)](https://github.com/KatasonovaMasa/JavaRush_Ui_Mobile_Api)
 </details>
 
-#### Контакт в Telegram(Кликни на изображение)
+#### Контакт в Telegram (Кликни на изображение)
 
 [<img alt="GIPHY" align="center" src="/design/icons/telegram1.png">](https://t.me/QA_marykat)
 
