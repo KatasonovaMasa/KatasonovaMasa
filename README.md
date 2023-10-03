@@ -8,7 +8,7 @@
 ![This is an image](/design/icons/Java.png)![This is an image](/design/icons/Gradle.png)![This is an image](/design/icons/Intelij_IDEA.png)![This is an image](/design/icons/Selenide.png)![This is an image](/design/icons/Selenoid.png)![This is an image](/design/icons/JUnit5.png)![This is an image](/design/icons/Jenkins.png)![This is an image](/design/icons/Allure_Report.png)![This is an image](/design/icons/AllureTestOps.png)![This is an image](/design/icons/Telegram.png)![This is an image](/design/icons/Jira.png)</br>
 
 <details>
-<summary>:trophy: **Мое образование:**</summary>
+<summary>:trophy: Мое образование:</summary>
 
 |<img width="30%" title="Northwest Public Service Academy" src="/design/icons/kirt.png">|[kirt](https://kirt.usurt.ru/)| Бухгалтер (2007)|
 |:-|:-|:-|
@@ -22,7 +22,7 @@
 
 
 <details>
-<summary>:star2: **Мои сертификаты:**</summary>
+<summary>:star2: Мои сертификаты:</summary>
 
 ## <img src="/design/sert/ChromeDevTools.png" width="185" height="105"/></a> <a target="_blank" href="https://cert.software-testing.ru/319597675000365643">Chrome DevTools: Инструменты тестировщика (2022)</a>
 
@@ -35,14 +35,14 @@
 </details>
 
 <details>
-<summary>**Дипломная работа выпускницы школы автотестирования** <a target="_blank" href="https://qa.guru/">qa.guru </summary>
+<summary>Дипломная работа выпускницы школы автотестирования <a target="_blank" href="https://qa.guru/">qa.guru </summary>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KatasonovaMasa&repo=DiplomaSteam&theme=dark)](https://github.com/KatasonovaMasa/DiplomaSteam)
 
 </details>
 
 <details>
-<summary>**Портфолио:**</summary>
+<summary>Портфолио:</summary>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KatasonovaMasa&repo=JavaRush_Ui_Mobile_Api&theme=dark)](https://github.com/KatasonovaMasa/JavaRush_Ui_Mobile_Api)
 </details>
