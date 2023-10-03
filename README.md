@@ -32,16 +32,18 @@
 
 </details>
 
-#### Дипломная работа выпускницы школы автотестирования [qa guru](https://qa.guru/)
+<details>
+<summary> #### Дипломная работа выпускницы школы автотестирования [qa guru](https://qa.guru/)</h0></summary>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KatasonovaMasa&repo=DiplomaSteam&theme=solarized-light)](https://github.com/KatasonovaMasa/DiplomaSteam)
+</details>
 
 <details>
 <summary> <h0>Портфолио:</h0></summary>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KatasonovaMasa&repo=JavaRush_Ui_Mobile_Api&theme=solarized-light)](https://github.com/KatasonovaMasa/JavaRush_Ui_Mobile_Api)
-
 </details>
+
 
 
 
