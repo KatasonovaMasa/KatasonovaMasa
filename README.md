@@ -3,7 +3,7 @@
 <h2>Я  QA Engineer (Junior Automation, Java):sunglasses:</h2>
 <h2>Моё резюме на <a target="_blank" href="https://yoshkar-ola.hh.ru/resume/8bc9af15ff058d8cd60039ed1f617776426948">НН</h2>
 
-<h2> :trophy:  Мои инструменты и технологии:</h2>
+<h0> :trophy:  Мои инструменты и технологии:</h0>
 
 ![This is an image](/design/icons/Java.png)![This is an image](/design/icons/Gradle.png)![This is an image](/design/icons/Intelij_IDEA.png)![This is an image](/design/icons/Selenide.png)![This is an image](/design/icons/Selenoid.png)![This is an image](/design/icons/JUnit5.png)![This is an image](/design/icons/Jenkins.png)![This is an image](/design/icons/Allure_Report.png)![This is an image](/design/icons/AllureTestOps.png)![This is an image](/design/icons/Telegram.png)![This is an image](/design/icons/Jira.png)</br>
 
