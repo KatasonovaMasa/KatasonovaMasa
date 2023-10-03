@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Добро+пожаловать+,+я+Мария)](https://git.io/typing-svg)
 
-#### Я  QA Engineer (Junior Automation, Java):sunglasses:
-#### Моё резюме на <a target="_blank" href="https://yoshkar-ola.hh.ru/resume/8bc9af15ff058d8cd60039ed1f617776426948">НН
-#### :trophy:  Мои инструменты и технологии:
+<h0>Я  QA Engineer (Junior Automation, Java):sunglasses:</h0>
+<h0> Моё резюме на <a target="_blank" href="https://yoshkar-ola.hh.ru/resume/8bc9af15ff058d8cd60039ed1f617776426948">НН</h0>
+<h0>:trophy:  Мои инструменты и технологии:</h0>
 
 ![This is an image](/design/icons/Java.png)![This is an image](/design/icons/Gradle.png)![This is an image](/design/icons/Intelij_IDEA.png)![This is an image](/design/icons/Selenide.png)![This is an image](/design/icons/Selenoid.png)![This is an image](/design/icons/JUnit5.png)![This is an image](/design/icons/Jenkins.png)![This is an image](/design/icons/Allure_Report.png)![This is an image](/design/icons/AllureTestOps.png)![This is an image](/design/icons/Telegram.png)![This is an image](/design/icons/Jira.png)</br>
 
