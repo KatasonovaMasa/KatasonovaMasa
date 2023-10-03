@@ -33,7 +33,7 @@
 </details>
 
 <details>
-<summary><h0>Дипломная работа выпускницы школы автотестирования [qa guru](https://qa.guru/) </h0></summary>
+<summary>Дипломная работа выпускницы школы автотестирования[ qa guru](https://qa.guru/) </summary>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KatasonovaMasa&repo=DiplomaSteam&theme=solarized-light)](https://github.com/KatasonovaMasa/DiplomaSteam)
 </details>
