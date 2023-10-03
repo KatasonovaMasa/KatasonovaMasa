@@ -35,6 +35,7 @@
 
 <details>
 <summary>Дипломная работа выпускницы школы автотестирования <a target="_blank" href="https://qa.guru/">qa.guru </summary>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KatasonovaMasa&repo=DiplomaSteam)](https://github.com/KatasonovaMasa/DiplomaSteam)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KatasonovaMasa&repo=DiplomaSteam&theme=solarized-light)](https://github.com/KatasonovaMasa/DiplomaSteam)
 </details>
