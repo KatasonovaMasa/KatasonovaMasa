@@ -17,7 +17,7 @@
 
 </details>
 
-![KatasonovaMasa github stats](https://github-readme-stats.vercel.app/api?username=KatasonovaMasa&show_icons=true&theme=radical)
+![KatasonovaMasa github stats](https://github-readme-stats.vercel.app/api?username=KatasonovaMasa&show_icons=true&theme=solarized-light)
 
 
 <details>
