@@ -1,7 +1,7 @@
 #### Добро пожаловать, я Мария <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 #### Я  QA Engineer (Junior Automation, Java):sunglasses:
 #### Моё резюме на <a target="_blank" href="https://yoshkar-ola.hh.ru/resume/8bc9af15ff058d8cd60039ed1f617776426948">НН
-####  :trophy:  Мои инструменты и технологии:
+#### :trophy:  Мои инструменты и технологии:
 
 ![This is an image](/design/icons/Java.png)![This is an image](/design/icons/Gradle.png)![This is an image](/design/icons/Intelij_IDEA.png)![This is an image](/design/icons/Selenide.png)![This is an image](/design/icons/Selenoid.png)![This is an image](/design/icons/JUnit5.png)![This is an image](/design/icons/Jenkins.png)![This is an image](/design/icons/Allure_Report.png)![This is an image](/design/icons/AllureTestOps.png)![This is an image](/design/icons/Telegram.png)![This is an image](/design/icons/Jira.png)</br>
 
