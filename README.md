@@ -1,7 +1,7 @@
 <h1>Добро пожаловать!</br> 
   Привет, я Мария <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h2>Я  QA Engineer (Junior Automation, Java):sunglasses:</h2>
-<h2>Моё резюме на <a target="_blank" href="https://yoshkar-ola.hh.ru/resume/8bc9af15ff058d8cd60039ed1f617776426948">НН</h2>
+<h1>Я  QA Engineer (Junior Automation, Java):sunglasses:</h1>
+<h1>Моё резюме на <a target="_blank" href="https://yoshkar-ola.hh.ru/resume/8bc9af15ff058d8cd60039ed1f617776426948">НН</h1>
 
 <h0> :trophy:  Мои инструменты и технологии:</h0>
 
