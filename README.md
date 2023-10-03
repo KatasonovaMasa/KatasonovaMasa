@@ -46,7 +46,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KatasonovaMasa&repo=JavaRush_Ui_Mobile_Api&theme=dark)](https://github.com/KatasonovaMasa/JavaRush_Ui_Mobile_Api)
 </details>
 
-<h1>Контакт в Telegram (Кликни на изображение)</h1>
+<h0>Контакт в Telegram (Кликни на изображение)</h0>
 
 [<img alt="GIPHY" align="center" src="/design/icons/telegram1.png">](https://t.me/QA_marykat)
 
