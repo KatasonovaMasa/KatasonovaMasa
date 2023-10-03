@@ -38,13 +38,12 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KatasonovaMasa&repo=DiplomaSteam&theme=dark)](https://github.com/KatasonovaMasa/DiplomaSteam)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KatasonovaMasa&repo=DiplomaSteam&theme=solarized-light)](https://github.com/KatasonovaMasa/DiplomaSteam)
 </details>
 
 <details>
 <summary>Портфолио:</summary>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KatasonovaMasa&repo=JavaRush_Ui_Mobile_Api&theme=solarized-light)](https://github.com/KatasonovaMasa/JavaRush_Ui_Mobile_Api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KatasonovaMasa&repo=JavaRush_Ui_Mobile_Api&theme=dark)](https://github.com/KatasonovaMasa/JavaRush_Ui_Mobile_Api)
 </details>
 
 #### Контакт в Telegram (Кликни на изображение)
